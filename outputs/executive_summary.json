@@ -1,0 +1,32 @@
+{
+  "total_patients": 6000,
+  "total_clusters": 20,
+  "languages_analyzed": 4,
+  "overall_sentiment_distribution": {
+    "positive": 0.7006666666666667,
+    "negative": 0.21116666666666667,
+    "neutral": 0.08816666666666667
+  },
+  "top_3_issues": [
+    {
+      "cluster_id": 2,
+      "size": 466,
+      "negative_pct": 15.67,
+      "summary": "Main issues of the patients in this topic were concerns about trusting new doctors, unexpected costs, and variable quality of dental care, particularly regarding teeth cleanings and staff changes. Overall sentiment expressed was mixed, with some expressing satisfaction and others reporting dissatisfaction. Operational implications include addressing transparency in pricing and communication, maintaining consistent staffing, and improving patient education and reassurance during procedures."
+    },
+    {
+      "cluster_id": 0,
+      "size": 440,
+      "negative_pct": 37.95,
+      "summary": "Main issues of the patients in this topic were frequent changes in doctors and long waiting times. Overall sentiment or operational implication: Patients expressed concerns about inconsistent care due to doctor turnover and lengthy wait times."
+    },
+    {
+      "cluster_id": 6,
+      "size": 416,
+      "negative_pct": 6.97,
+      "summary": "Main issues of the patients in this topic were unfriendliness of some staff members, particularly those at reception, and perceived arrogance from certain doctors. Overall sentiment was mixed, with many expressing satisfaction with their care but others reporting negative experiences."
+    }
+  ],
+  "avg_rating": 1.3145833333333334,
+  "key_insights": []
+}

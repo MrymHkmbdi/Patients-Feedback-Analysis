@@ -1,0 +1,14 @@
+{
+  "total_rows": 439280,
+  "total_columns": 3,
+  "missing_values_total": 9544,
+  "missing_percentage": "0.72%",
+  "duplicate_rows": 0,
+  "text_columns": [
+    "comment"
+  ],
+  "rating_columns": [
+    "rating"
+  ],
+  "memory_mb": "341.30"
+}
