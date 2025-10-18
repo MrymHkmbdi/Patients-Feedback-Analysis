@@ -1,0 +1,57 @@
+# Patient Feedback Analysis - Requirements
+# Python 3.8+
+
+# Core Data Science
+pandas>=1.5.0
+numpy>=1.23.0
+scipy>=1.9.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+umap-learn>=0.5.3
+hdbscan>=0.8.29
+
+# Deep Learning & Transformers
+torch>=2.0.0
+transformers>=4.30.0
+sentence-transformers>=2.2.2
+accelerate>=0.20.0
+bitsandbytes>=0.40.0
+sentencepiece>=0.1.99
+protobuf>=3.20.0
+
+# NLP Libraries
+nltk>=3.8
+spacy>=3.5.0
+bertopic>=0.15.0
+langdetect>=1.0.9
+textblob>=0.17.1
+
+# Translation
+deep-translator>=1.11.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.14.0
+wordcloud>=1.9.0
+
+# Dashboard
+streamlit>=1.28.0
+
+# Data Loading
+kagglehub>=0.1.0
+
+# Utilities
+tqdm>=4.65.0
+python-dateutil>=2.8.2
+pytz>=2023.3
+
+# Jupyter (for notebooks)
+jupyter>=1.0.0
+ipykernel>=6.22.0
+ipywidgets>=8.0.0
+
+# Optional: For better performance
+# numba>=0.57.0
+# faiss-cpu>=1.7.4  # For faster similarity search
