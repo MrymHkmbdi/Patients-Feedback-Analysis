@@ -1,0 +1,23 @@
+{
+  "total_rows": 6000,
+  "languages": {
+    "de": 1500,
+    "en": 1500,
+    "fr": 1500,
+    "ar": 1500
+  },
+  "random_state": 42,
+  "processing_date": "2025-10-16T11:33:13.425196",
+  "stopwords_removed": true,
+  "columns": [
+    "text_original",
+    "text_cleaned",
+    "text_final",
+    "text_no_stopwords",
+    "target_language",
+    "language_original",
+    "rating_normalized"
+  ],
+  "avg_text_length_before_stopwords": 56.14266666666666,
+  "avg_text_length_after_stopwords": 31.0765
+}
