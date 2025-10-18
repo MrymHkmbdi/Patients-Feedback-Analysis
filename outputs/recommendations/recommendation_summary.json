@@ -1,0 +1,9 @@
+{
+  "total_recommendations_generated": 60,
+  "unique_clusters_analyzed": 20,
+  "critical_issues": 0,
+  "high_priority_issues": 18,
+  "total_patients_affected": 18000,
+  "categories_identified": 4,
+  "avg_severity_score": 45.42
+}

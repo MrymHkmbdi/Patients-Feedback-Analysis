@@ -1,0 +1,125 @@
+[
+  {
+    "rank": 1,
+    "cluster_id": 0,
+    "severity": "High",
+    "category": "Clinical Quality",
+    "issue_summary": "Main issues of the patients in this topic were frequent changes in doctors and long waiting times. Overall sentiment or operational implication: Patients expressed concerns about inconsistent care due to doctor turnover and lengthy wait times.",
+    "recommended_action": "Implement clinical quality improvement program",
+    "metrics": {
+      "total_affected_patients": 440,
+      "percentage_of_total": "7.33%",
+      "negative_reviews": 167,
+      "neutral_reviews": 65,
+      "positive_reviews": 208,
+      "current_avg_rating": "1.91/5.0",
+      "severity_score": 55.71
+    },
+    "business_case": {
+      "problem_statement": "Analysis of 440 patient reviews reveals significant dissatisfaction in clinical quality. 38.0% of feedback is negative.",
+      "current_impact": "Affects 7.3% of total patient population. This represents a substantial volume requiring immediate attention.",
+      "recommended_intervention": "Implement clinical quality improvement program",
+      "expected_outcome": "Expected to improve patient satisfaction scores by addressing primary pain point. Potential rating improvement: +0.5 points.",
+      "implementation_priority": "High",
+      "success_metrics": [
+        "Reduce negative sentiment from 38.0% to <30%",
+        "Increase patient satisfaction scores by 0.5+ points",
+        "Achieve 80%+ positive sentiment within 6 months"
+      ]
+    },
+    "sample_feedback": [
+      "Mein Vater und ich sind beide Patienten von Frau Dr. Radounikli wegen hohem Blutdruck. Sie veranlasste alle notwendigen Untersuchungen und vor allem schaffte sie es den Blutdruck meines Vaters zu stabilisieren. Sein Hausarzt hatte schon das Handtuch geworfen. Wir haben uns menschlich und fachlich gut aufgehoben gefühlt. Die negativen Bewertungen können wir nicht nachvollziehen!",
+      "Ich kam mit starken Schmerzen in diese Praxis, erstens waren die Empfangsdamen genervt, unfreundlich und ich hatte das Gefühl das sie mich ungern aufnehmen. Ich saß nicht lange im Wartezimmer, das ist auch das einzige positive an diesem Arztbesuch gewesen. Der Arzt hat sich überhaupt keine Zeit genommen, ist während ich mein Anliegen erzählt habe ans Tel. gegangen. Ultraschall hat 10 Sek. gedauert am Ende sagte er mir das ich nichts habe. War danach bei einem anderen und ich hatte Nierensteine!",
+      "Nachdem ich vor zwei Jahren an den Eierstöcken operiert wurde, wollte ich aufgrund von Schmerzen im Unterleib einen Ultraschall bei Frau Dr. Schwörbel machen lassen. br  Frau Dr. Schwörbel ließ mich während des Termins leider wissen, dass ich den Ultraschall selbst bezahlen müsse, da meine Kasse das nicht übernehmen würde - nach einem Gespräch mit meiner Kasse erwies sich diese Aussage als falsch. Es ging ihr ganz klar eher ums Geld, als um mein Wohlbefinden."
+    ],
+    "key_themes": [
+      "très",
+      " الأسنان",
+      " dentist",
+      " dentiste",
+      " practice"
+    ]
+  },
+  {
+    "rank": 2,
+    "cluster_id": 17,
+    "severity": "High",
+    "category": "Operational Efficiency",
+    "issue_summary": "Main issues of the patients in this topic were difficulties reaching certain practices due to outdated facilities and mixed experiences with staff behavior.\nOverall, some patients reported positive interactions while others encountered unfriendly attitudes and lengthy wait times.",
+    "recommended_action": "Implement appointment reminder system to reduce no-shows",
+    "metrics": {
+      "total_affected_patients": 346,
+      "percentage_of_total": "5.77%",
+      "negative_reviews": 151,
+      "neutral_reviews": 28,
+      "positive_reviews": 167,
+      "current_avg_rating": "1.81/5.0",
+      "severity_score": 53.91
+    },
+    "business_case": {
+      "problem_statement": "Analysis of 346 patient reviews reveals significant dissatisfaction in operational efficiency. 43.6% of feedback is negative.",
+      "current_impact": "Affects 5.8% of total patient population. This represents a substantial volume requiring immediate attention.",
+      "recommended_intervention": "Implement appointment reminder system to reduce no-shows",
+      "expected_outcome": "Expected to improve patient satisfaction scores by addressing primary pain point. Potential rating improvement: +0.5 points.",
+      "implementation_priority": "High",
+      "success_metrics": [
+        "Reduce negative sentiment from 43.6% to <30%",
+        "Increase patient satisfaction scores by 0.5+ points",
+        "Achieve 80%+ positive sentiment within 6 months"
+      ]
+    },
+    "sample_feedback": [
+      "Kann mich den negativen Bewertungen hier nur anschließen. War zum ersten und letzten mal dort. Mit meiner eigentlichen Frauenärztin war ich zufrieden, wollte jedoch wechseln, weil bei meiner die Terminvergabe sehr schwierig und langwierig ist. br  Es wurde überhaupt kein Vertrauensverhältnis aufgebaut, die ganze Behandlung war sehr lieblos und grob. Gesprochen wurde kaum, was der Atmosphäre nicht half.br  br  Als ich ein paar Wochen später nochmal anrief, weil ich eine anscheinend dumme Frage stellen hatte, wurde ich regelrecht ausgelacht von der Sprechstundenhilfe. br  Also Top-Personal auf der ganzen Linie! Wenn man sich verarschen lassen will, ist man hier richtig!!",
+      "Scheint überlastet. Dem Personal gegenüber nicht gerade freundlich. Muss ich als Patient nicht bekommen. Zu viele Ärzte in der Praxis. War früher, als nur sie da war, angenehmer.",
+      "90 Min. Wartezeit trotz Termin! Auf freundliche Nachfrage wurde die Sprechstundenhilfe pampig, schade."
+    ],
+    "key_themes": [
+      "très",
+      " للغاية",
+      " temps",
+      " الممارسة",
+      " cabinet"
+    ]
+  },
+  {
+    "rank": 3,
+    "cluster_id": 2,
+    "severity": "High",
+    "category": "Clinical Quality",
+    "issue_summary": "Main issues of the patients in this topic were concerns about trusting new doctors, unexpected costs, and variable quality of dental care, particularly regarding teeth cleanings and staff changes. Overall sentiment expressed was mixed, with some expressing satisfaction and others reporting dissatisfaction. Operational implications include addressing transparency in pricing and communication, maintaining consistent staffing, and improving patient education and reassurance during procedures.",
+    "recommended_action": "Implement clinical quality improvement program",
+    "metrics": {
+      "total_affected_patients": 466,
+      "percentage_of_total": "7.77%",
+      "negative_reviews": 73,
+      "neutral_reviews": 25,
+      "positive_reviews": 368,
+      "current_avg_rating": "1.00/5.0",
+      "severity_score": 53.58
+    },
+    "business_case": {
+      "problem_statement": "Analysis of 466 patient reviews reveals significant dissatisfaction in clinical quality. 15.7% of feedback is negative.",
+      "current_impact": "Affects 7.8% of total patient population. This represents a substantial volume requiring immediate attention.",
+      "recommended_intervention": "Implement clinical quality improvement program",
+      "expected_outcome": "Expected to improve patient satisfaction scores by addressing primary pain point. Potential rating improvement: +0.5 points.",
+      "implementation_priority": "High",
+      "success_metrics": [
+        "Reduce negative sentiment from 15.7% to <30%",
+        "Increase patient satisfaction scores by 0.5+ points",
+        "Achieve 80%+ positive sentiment within 6 months"
+      ]
+    },
+    "sample_feedback": [
+      "The quality of medical care remains good. However, due to staff changes, the care is only satisfactory. In particular, Profilaxe teeth cleaning has declined from a high level",
+      "At first I was very satisfied with the practice. However, I was constantly told that my gums were inflamed, but I had no pain or discomfort. br Due to my inflamed gums, I was recommended to have my teeth professionally cleaned every 4 months, which I obediently followed. I was also recommended a special toothpaste, which I dutifully used. During this time, my gums actually became inflamed on a regular basis and my teeth also became extremely sensitive to pain, which was definitely not the case before. br Until my last teeth cleaning a good week ago, I hadn't been there for a cleaning for 7 months and I used my original toothpaste again and like a miracle I no longer had any inflammation and the sensitivity to pain in my teeth also subsided. Maybe it's a coincidence, but I don't think so because after my last teeth cleaning there, less than 3 days later, I had extreme inflammation in my gums again, which, strangely enough, I hadn't had in the previous 7 months. In addition, after 7 months I was told again how inflamed my gums were, but I had no complaints until then. As a last resort, it was suggested to me that you could do a bacteria test in your mouth. I guess I'll have to pay for it myself? br br Oh, by the way, thank you very much, I now have to pay over 100 for a teeth cleaning, which lasted about 30 minutes, I was not informed in any way about the price increase before the treatment. I would also like to have an hourly wage like that...br br For my part, I will now change my dentist. It's also not my fault that I have good teeth, from which a dentist earns very little. I am of the opinion that even people without chronic complaints have the right to appropriate and honest treatment without being milked for private services!",
+      "I've probably been to Dr. 15 times now. Wiesner, and I was always very satisfied. He works quickly, precisely and always exudes a good mood. It was only with him that I lost my fear of the dentist.br I have had the dentures for my upper jaw for two years now. It fit right away and I've never had any problems with it.br The appointments are usually adhered to very precisely. I have never had to wait longer than 20 minutes. My wife is also very satisfied with this dentist. She is very picky and has high demands. I would be very surprised if there was a patient in the future who was not enthusiastic about this dentist."
+    ],
+    "key_themes": [
+      "الدكتور",
+      " للغاية",
+      " الطبيب",
+      " العلاج",
+      " كانت"
+    ]
+  }
+]
