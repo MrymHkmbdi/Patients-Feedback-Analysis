@@ -1,0 +1,9 @@
+{
+  "model_name": "paraphrase-multilingual-MiniLM-L12-v2",
+  "embedding_dim": 384,
+  "n_samples": 6000,
+  "optimal_k": 19,
+  "n_clusters_kmeans": 19,
+  "n_clusters_hdbscan": 4,
+  "sentiment_model": "cardiffnlp/twitter-xlm-roberta-base-sentiment"
+}
